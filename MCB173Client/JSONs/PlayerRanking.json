@@ -3,8 +3,25 @@
     "Moderator": ["ugapeyton"],
     "Helper": ["Owen2k6"],
     "Trial": ["Cakedon", "cherryicee"],
+    "Donator++": [],
+    "Donator+": ["Retronics" "Apollointhehouse"],
+    "Mystic": [],
+    "Legend": [],
+    "Hero": ["Lukeisstuff"],
+    "Trusted": ["Dude123Lego"],
+    "Citizen": ["ExtreemToukan"],
+    "Wanderer": ["a fucking lot of em."],
     "AdminP": " §4Admin",
     "ModeratorP": " §eModerator"
     "HelperP": " §3Helper"
     "TrialP": " §aTrial Helper"
+    "Donator++P": " §cDonator§4++",
+    "Donator+P": " §cDonator§4+",
+    "Donator": " §cDonator"
+    "MysticP": " §bMystic",
+    "LegendP": "",
+    "HeroP": "",
+    "TrustedP": "",
+    "CitizenP": "",
+    "WandererP": ""
 }
