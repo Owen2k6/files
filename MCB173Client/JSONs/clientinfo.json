@@ -1,0 +1,8 @@
+{
+  "skinURL": "https://minotar.net/skin/<username>",
+  "cloakURL": "https://assets.retromc.org/capes/<username>.png",
+  "resourcesURL": "https://resourceproxy.pymcl.net/MinecraftResources/",
+  "authURL": "http://session.minecraft.net/game/joinserver.jsp?user=<username>&sessionId=<sessionid>&serverId=<serverid>",
+  "newestClient": "1.4.5",
+  "newestGameClient": "P1a"
+}
