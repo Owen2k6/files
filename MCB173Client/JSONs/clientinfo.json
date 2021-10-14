@@ -4,5 +4,5 @@
   "resourcesURL": "https://resourceproxy.pymcl.net/MinecraftResources/",
   "authURL": "http://session.minecraft.net/game/joinserver.jsp?user=<username>&sessionId=<sessionid>&serverId=<serverid>",
   "newestClient": "1.4.5",
-  "newestGameClient": "P1a"
+  "newestGameClient": "P2a"
 }
